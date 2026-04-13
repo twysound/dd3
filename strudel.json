@@ -1,0 +1,19 @@
+{"bd":["/bd/OS_DD3_Closer_Kick.wav","/bd/OS_DD3_Cosy_Kick.wav","/bd/OS_DD3_Diamonds_Kick.wav"Wrote json to /Users/tsun/Desktop/dd3-main/strudel.json
+ _____________________________
+< welcome to @strudel/sampler >
+ -----------------------------
+        \   ^__^
+         \  (oO)\_______
+            (__)\       )\/\
+             U  ||----w |
+                ||     ||
+@strudel/sampler is now serving audio files from:
+ /Users/tsun/Desktop/dd3-main
+
+To use them in the Strudel REPL, run:
+ samples('http://localhost:5432')
+
+Or on a machine in the same network:
+ samples('http://192.168.50.161:5432')
+
+D3_Mellow_Hat.wav","/hh/OS_DD3_Quietly_Hat.wav","/hh/OS_DD3_Slumber_Hat.wav","/hh/OS_DD3_Slumber_Open_Hat.wav","/hh/OS_DD3_Sunshine_Hat.wav","/hh/OS_DD3_Sunshine_Open_Hat.wav","/hh/OS_DD3_You_Hat.wav","/hh/OS_DD3_You_Open_Hat.wav"],"pc":["/pc/OS_DD3_Crispy_Perc.wav","/pc/OS_DD3_Dirt_Perc.wav","/pc/OS_DD3_Fields_Tamb.wav","/pc/OS_DD3_Flam_Perc.wav","/pc/OS_DD3_Flowers_Shaker.wav","/pc/OS_DD3_Hall_Wood_Hit.wav","/pc/OS_DD3_Lost_Shaker.wav","/pc/OS_DD3_Loveme_Perc.wav","/pc/OS_DD3_Mellow_Shaker.wav","/pc/OS_DD3_RC_Tamb.wav","/pc/OS_DD3_Sizzle_Shaker.wav","/pc/OS_DD3_Stick_Perc.wav","/pc/OS_DD3_Verb_Snap.wav","/pc/OS_DD3_Wooden_Knock_1.wav","/pc/OS_DD3_Wooden_Knock_2.wav"],"sd":["/sd/OS_DD3_Bitcrush_Snare.wav","/sd/OS_DD3_Cosy_Snare.wav","/sd/OS_DD3_Diamonds_Snare.wav","/sd/OS_DD3_Ending_Snare.wav","/sd/OS_DD3_Fields_Snare.wav","/sd/OS_DD3_Knock_Snare.wav","/sd/OS_DD3_Lost_Snare.wav","/sd/OS_DD3_Mellow_Snare.wav","/sd/OS_DD3_Quietly_Snare.wav","/sd/OS_DD3_Rainy_Snare.wav","/sd/OS_DD3_Slumber_Snare.wav","/sd/OS_DD3_Snappy_Snare.wav","/sd/OS_DD3_Sunshine_Snare.wav","/sd/OS_DD3_Wonderlust_Snare.wav","/sd/OS_DD3_You_Snare.wav"],"tp":["/tp/OS_DD3_Bell_Ride.wav","/tp/OS_DD3_Chunky_Ride.wav","/tp/OS_DD3_LoFi_Ride.wav"]}
